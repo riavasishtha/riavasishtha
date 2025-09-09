@@ -1,5 +1,5 @@
 # so, this is my github
 
-a collection of sidequests
+a collection of side projects
 
 most of my repositories are private — feel free to reach me at [rv2529@barnard.edu](mailto:rv2529@barnard.edu) with questions
